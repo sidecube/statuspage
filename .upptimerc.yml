@@ -5,13 +5,14 @@ repo: statuspage # The name of this repository
 sites:
   - name: Website
     url: https://www.sidecube.ro
-
+  - name: Hosting Infrastructure
+    url: $HOSTING
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.sidecube.ro
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/sidecube/statuspage/master/assets/Asset%2014.svg
+  logoUrl: https://raw.githubusercontent.com/sidecube/statuspage/master/assets/ico.svg
   name: SIDECUBE
   introTitle: "**Uptime monitor and status page**"
   navbar:
