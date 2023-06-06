@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 235,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "time": 637,
+    "timeDay": 637,
+    "timeWeek": 637,
+    "timeMonth": 637,
+    "timeYear": 637,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Hosting Infrastructure",
-    "url": "$HOSTING",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "hosting-infrastructure",
-    "status": "down",
-    "uptime": "4.06%",
-    "uptimeDay": "4.06%",
-    "uptimeWeek": "4.06%",
-    "uptimeMonth": "4.06%",
-    "uptimeYear": "4.06%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-06-06": 12
-    }
   }
 ]
