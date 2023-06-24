@@ -4,17 +4,19 @@
     "url": "https://www.sidecube.ro",
     "icon": "https://icons.duckduckgo.com/ip3/www.sidecube.ro.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 233,
-    "timeWeek": 163,
-    "timeMonth": 285,
-    "timeYear": 285,
-    "dailyMinutesDown": {}
+    "time": 290,
+    "timeDay": 316,
+    "timeWeek": 192,
+    "timeMonth": 290,
+    "timeYear": 290,
+    "dailyMinutesDown": {
+      "2023-06-24": 0
+    }
   }
 ]
