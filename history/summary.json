@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sidecube.ro.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 286,
-    "timeDay": 125,
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 284,
+    "timeDay": 206,
     "timeWeek": 294,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2023-06-24": 215
     }
